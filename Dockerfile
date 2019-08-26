@@ -11,6 +11,3 @@
 FROM node:12.8.1-slim
 
 LABEL maintainer="development@minddoc.com"
-
-# Add curl for debugging purposes
-RUN apk --update add --no-cache curl
