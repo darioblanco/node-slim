@@ -8,6 +8,6 @@
 # authors:  development@minddoc.com
 # ------------------------------------------------------
 
-FROM node:12.10-slim
+FROM node:12.13-slim
 
 LABEL maintainer="development@minddoc.com"
